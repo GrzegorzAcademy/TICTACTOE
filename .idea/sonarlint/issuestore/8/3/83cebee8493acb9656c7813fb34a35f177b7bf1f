@@ -1,0 +1,17 @@
+
+’	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë­¹8ß¥©ã1J$59a2dda5-b9ff-4455-9a07-8ec8b4bd6c0d
+’	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë­¹8ß¥©ã1J$ced9b7af-375d-401f-a409-1bbeac23fa42
+_
+java:S3626"Remove this redundant jump.(ûÁİ…8ö¦©ã1J$43773c96-1e26-4da3-90a2-9a4f71b10aa9
+d
+java:S1659{""Declare "ai_j" on a separate line.(ë­¹8÷¦©ã1J$564ca387-a5cd-48e0-ae00-95f821a610b3
+l
+java:S2140~")Use "java.util.Random.nextInt()" instead.(Ç€Ç’8ø¦©ã1J$0af22cf1-88f9-44e4-8e24-b8af90404414
+l
+java:S2140")Use "java.util.Random.nextInt()" instead.(ÂÆ ü8ù¦©ã1J$58680ba7-c45b-4d99-9d6f-5feeb3d61f3e
+–
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¯×ŸÏ8û¦©ã1J$0d27baa3-1a08-4e8f-8a9d-561dbc5c20d0
+r
+java:S1940¸")Use the opposite operator ("!=") instead.(·ğÍ¦ÿÿÿÿÿ8ş¦©ã1J$eb58a0df-8864-4665-acbe-9b36daf055b9
+s
+java:S1197Ç"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8€§©ã1J$74405757-4396-4c88-8c1f-bf3c70ffef5d
